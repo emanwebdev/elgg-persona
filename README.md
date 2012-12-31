@@ -2,8 +2,8 @@ Persona for Elgg
 ================
 
 Ben Werdmuller
-* http://benwerd.com
-* ben@benwerd.com
+http://benwerd.com
+ben@benwerd.com
 
 # Persona for your Elgg site #
 
