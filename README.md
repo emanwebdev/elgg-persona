@@ -1,5 +1,5 @@
-Persona for Elgg
-================
+Persona plugin for Elgg
+=======================
 
 By Ben Werdmuller (http://benwerd.com/)
 
