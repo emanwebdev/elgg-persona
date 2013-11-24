@@ -6,6 +6,7 @@ By Ben Werdmuller (http://benwerd.com/)
 ## Persona for your Elgg site ##
 
 This plugin, for Elgg 1.8+, adds a Persona login button to your Elgg site.
+Persona is an easy-to-use authentication standard created by Mozilla. This plugin allows your users to optionally use Persona to log into your Elgg site. All they need is an email address - it\'s arguably easier than Elgg\'s built-in authentication!
 
 ## Instructions ##
 
