@@ -4,31 +4,31 @@
      * @package Persona
      */
 
-	$french = array(
-	    'persona:login'	=>  'Log in with your email address',
-	    'persona:welcome'	=>  'You\'re almost there! We just need you to enter a few details to get started.',
+	$lang = array(
+	    'persona:login'	=>  'Connectez-vous avec votre adresse e-mail',
+	    'persona:welcome'	=>  'Vous y êtes presque! Nous avons juste besoin que vous entriez quelques détails pour commencer.',
 	    
-	    'persona:details'	=>  'You\'re almost there!',
+	    'persona:details'	=>  'Vous y êtes presque!',
 	    'persona:details:explanation'	=>  
-				    "To get started, we need you to tell us a couple of things about you. These will help you get the most out of the site.",
+				    "Pour commencer, nous avons besoin que vous nous donniez quelques informations à votre sujet. Elles vous aideront obtenir le maximum du site.",
 	    
-	    'persona:username'	=>  'Your user identifier',
+	    'persona:username'	=>  'Votre identifiant d\'utilisateur',
 	    'persona:username:explanation'
-				=>  'This is the identifier you use around the site. It needs to be at least four characters long, with no spaces, punctuation or special characters. If your name was John Smith, you might pick JohnSmith. Once you\'ve set this, it can\'t be changed.',
+				=>  'C\'est l\'identifiant que vous utilisez sur le site. Il doit être d\'au moins quatre caractères, sans espaces, ni signes de ponctuation ou caractères spéciaux. Si p.ex. votre nom est Jean Dupont, vous pouvez choisir JeanDupont. Une fois que vous l\'avez défini, il ne pourra plus être changé.',
 	
-	    'persona:name'	=>  'Your name',
+	    'persona:name'	=>  'Votre nom',
 	    'persona:name:explanation'
-				=>  'This is the name that will be attached to your profile, on every piece of content you post, and on all of your comments. You can change this later.',
+				=>  'C\'est le nom qui sera rattaché à votre profil, sur tout contenu que vous publiez, et sur l\'ensemble de vos commentaires. Vous pouvez le modifier ultérieurement.',
 	    
 	    'persona:settings:instructions' =>
-				    'Persona is an easy-to-use authentication standard created by Mozilla. This plugin allows your users to optionally use Persona to log into your Elgg site. All they need is an email address - it\'s arguably easier than Elgg\'s built-in authentication!',
-	    'persona:login:use'	=>  'Enable Persona logins on the front page?',
+				    'Persona est une norme d\'authentification facile à utiliser créé par Mozilla. Ce plugin permet à vos utilisateurs d\'optionnellement utiliser Persona pour se connecter à votre site Elgg. Tout ce qu\'il ont besoin est une adresse e-mail - c\'est sans doute plus facile que l\'authentification intégrée de Elgg',
+	    'persona:login:use'	=>  'Activer les connexions Persona sur la page d\'accueil?',
 	    
-	    'username:invalid'	=>  'The username is invalid. Please enter another one.',
-	    'name:invalid'	=>  'You must enter a name!',
+	    'username:invalid'	=>  'Le nom d\'utilisateur est invalide. Veuillez svp en entrer un autre.',
+	    'name:invalid'	=>  'Vous devez entrer un nom!',
 	    'persona:registered'
 				=>  "You're ready to go! Why not fill in your profile to tell other users a little about you?",
 		
 	);
 
-	add_translation('fr', $french);
+	add_translation('fr', $lang);
